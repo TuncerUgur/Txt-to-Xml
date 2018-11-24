@@ -1,0 +1,12 @@
+C:\Users\IAM\source\repos\Upload_WordScanner\Upload_WordScanner\bin\Debug\Upload_WordScanner.exe.config
+C:\Users\IAM\source\repos\Upload_WordScanner\Upload_WordScanner\bin\Debug\Upload_WordScanner.exe
+C:\Users\IAM\source\repos\Upload_WordScanner\Upload_WordScanner\bin\Debug\Upload_WordScanner.pdb
+C:\Users\IAM\source\repos\Upload_WordScanner\Upload_WordScanner\obj\Debug\Upload_WordScanner.csprojAssemblyReference.cache
+C:\Users\IAM\source\repos\Upload_WordScanner\Upload_WordScanner\obj\Debug\Upload_WordScanner.csproj.CoreCompileInputs.cache
+C:\Users\IAM\source\repos\Upload_WordScanner\Upload_WordScanner\obj\Debug\Upload_WordScanner.exe
+C:\Users\IAM\source\repos\Upload_WordScanner\Upload_WordScanner\obj\Debug\Upload_WordScanner.pdb
+C:\Users\IAM\source\repos\Upload_WordScanner\Upload_WordScanner\bin\Debug\EntityFramework.dll
+C:\Users\IAM\source\repos\Upload_WordScanner\Upload_WordScanner\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\IAM\source\repos\Upload_WordScanner\Upload_WordScanner\bin\Debug\EntityFramework.xml
+C:\Users\IAM\source\repos\Upload_WordScanner\Upload_WordScanner\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\IAM\source\repos\Upload_WordScanner\Upload_WordScanner\obj\Debug\Upload_WordScanner.csproj.CopyComplete

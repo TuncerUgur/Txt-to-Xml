@@ -1,0 +1,35 @@
+﻿@using XmlProject.Models
+@model IEnumerable<Words>
+@{
+    ViewBag.Title = "Index";
+
+}
+
+<h2>Index</h2>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayName("WordText")
+        </th>
+        <th>
+            @Html.DisplayName("Count")
+        </th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+
+        <tr>
+            <td>
+                @item.text
+            </td>
+            <td>
+                @item.Count
+            </td>
+        </tr>
+    }
+
+
+
+</table>
